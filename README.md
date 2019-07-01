@@ -44,4 +44,4 @@
 统计落户人数最多的前25个公司，落户人数最多的单位为北京华为数字有限公司、后面依次为中央电视台、首钢建设、联想等。这些公司体量较大，员工也多，所以落户人数多一点也很正常。更重要的应该是在这些科技公司上，交税和创新方面可能还会有点优势。
 ![image](https://github.com/Aplicity/settle_beijing_2018/blob/master/images/就业单位.png)
 
-![企业名称词云图](https://github.com/Aplicity/settle_beijing_2018/blob/master/images/单位词云图.png)
+![企业名称词云图](https://github.com/Aplicity/settle_beijing_2018/blob/master/images/单位名称词云图.png)
